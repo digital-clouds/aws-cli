@@ -16,6 +16,8 @@
   </a>
 </div>
 
+<hr />
+
 Lightweight Docker Alpine image for the AWS CLI v2.
 
 ## Docker CLI usage
