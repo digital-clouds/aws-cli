@@ -1,5 +1,21 @@
 # AWS CLI v2 Alpine Image
 
+<div align="center">
+  <a title="Releases" target="_self" href="https://github.com/digital-clouds/aws-cli/releases">
+    <img align="center" src="https://img.shields.io/github/tag/digital-clouds/aws-cli.svg" alt="Version" />
+  </a>
+  <a title="License GPL-3.0" target="_self" href="https://www.gnu.org/licenses/gpl-3.0">
+    <img align="center" src="https://img.shields.io/badge/License-GPL%20v3-blue.svg" alt="Project License" />
+  </a>
+  <a title="wiki" target="_self" href="https://open.vscode.dev/digital-clouds/aws-cli">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff"
+      alt="Visual Studio Code"
+    />
+  </a>
+</div>
+
 Lightweight Docker Alpine image for the AWS CLI v2.
 
 ## Docker CLI usage
