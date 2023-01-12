@@ -2,7 +2,7 @@ ARG ALPINE_VERSION=3.17
 
 FROM python:3.11.1-alpine${ALPINE_VERSION} as builder
 
-ARG AWS_CLI_VERSION=2.9.13
+ARG AWS_CLI_VERSION=2.9.14
 
 # install dependencies
 # hadolint ignore=DL3018
